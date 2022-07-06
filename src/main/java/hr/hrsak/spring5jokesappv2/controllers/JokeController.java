@@ -1,4 +1,4 @@
-package hr.hrsak.spring5jokesappv2.services.controllers;
+package hr.hrsak.spring5jokesappv2.controllers;
 
 import hr.hrsak.spring5jokesappv2.services.JokeService;
 import org.springframework.stereotype.Controller;
